@@ -1,0 +1,24 @@
+.sidemenuChat {
+  display: flex;
+  padding: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #f6f6f6;
+}
+
+a {
+  text-decoration: none !important;
+  color: black;
+}
+
+.sidemenuChat:hover {
+  background-color: #ebebeb;
+}
+
+.info > h2 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.info {
+  margin-left: 15px;
+}
